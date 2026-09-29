@@ -88,8 +88,7 @@ A sliding puzzle where tiles become **3D pillars of different heights**, sorted 
 | 📢 [**facebook_audience_network**](https://pub.dev/packages/facebook_audience_network) | Banner, interstitial, rewarded & native ads via Facebook Audience Network | <img src="https://img.shields.io/pub/v/facebook_audience_network?color=02569B"/> <img src="https://img.shields.io/pub/likes/facebook_audience_network?color=13B9FD"/> |
 | 📝 [**flutter_wordpress**](https://pub.dev/packages/flutter_wordpress) | Talk to WordPress sites through REST API v2 | <img src="https://img.shields.io/pub/likes/flutter_wordpress?color=13B9FD"/> |
 | 🔋 [**battery_optimization**](https://pub.dev/packages/battery_optimization) | Check if the app is ignoring battery optimisations | <img src="https://img.shields.io/pub/likes/battery_optimization?color=13B9FD"/> |
-| 🐞 [**debug_mode**](https://pub.dev/packages/debug_mode) | Detect whether the app runs in debug mode | <img src="https://img.shields.io/pub/likes/debug_mode?color=13B9FD"/> |
-| 📱 [**surface_duo**](https://pub.dev/packages/surface_duo) | Surface Duo SDK for Flutter (dual-screen) | <img src="https://img.shields.io/pub/likes/surface_duo?color=13B9FD"/> |
+
 
 ### ✍️ Contributor — [flutter-quill](https://github.com/singerdmx/flutter-quill)
 In the **early days of flutter-quill**, the rich text editor for Flutter, I implemented several of its features.
