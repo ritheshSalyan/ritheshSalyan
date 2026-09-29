@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=210&section=header&text=Hi,%20I'm%20Rithesh%20Salyan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Flutter%20Developer%20·%20Building%20with%20Flutter%20since%202018&descAlignY=58&descSize=17" width="100%"/>
 
-<a href="https://github.com/ritheshSalyan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=13B9FD&center=true&vCenter=true&width=640&lines=Writing+Flutter+since+the+beta+days+(2018)+💙;Built+a+FlutterFlow-style+drag+%26+drop+app+builder;3D+%2B+AR+%2B+Voxels+in+pure+Flutter+widgets;Maintainer+of+%60screenshot%60+on+pub.dev+(1.5k%2B+likes);Early+contributor+to+flutter-quill" alt="Typing SVG" />
-</a>
 
 <br/>
 
